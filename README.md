@@ -1,1 +1,1 @@
-# High-School-AI-Tutor
+# Healthcare-Assistant
