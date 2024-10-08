@@ -23,7 +23,7 @@ def extract_and_save_information(input_file, output_file):
         extracted_data[unique_id] = {
             "Question": question,
             "Contexts": contexts,
-            "Long Answer": long_answer
+            "Answer": long_answer
         }
     
     # Save the extracted data into a new JSON file
